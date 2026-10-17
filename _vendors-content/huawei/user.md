@@ -1,8 +1,8 @@
----
+---https://dontkillmyapp.com/htc
 manufacturer:
     - huawei
 
----
+-c no no shame--
 
 
 ### Smart Tune-up
